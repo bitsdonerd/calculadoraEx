@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "jsdom": "^25.0.1"
   },
   "name": "calculadoraex",
   "version": "1.0.0",
